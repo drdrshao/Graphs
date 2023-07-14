@@ -1,5 +1,5 @@
 # A2 Graphs
-George Shao (g3shao 20849675)
+George Shao (g3shao)
 
 ## Setup
 * Windows 11
