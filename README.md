@@ -1,4 +1,4 @@
-# A2 Graphs
+# Graphs
 George Shao (g3shao)
 
 ## Setup
