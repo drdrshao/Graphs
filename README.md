@@ -1,5 +1,4 @@
 # Graphs
-George Shao
 
 ## Setup
 * Windows 11
@@ -12,7 +11,7 @@ George Shao
 
 2. The scroll bar will appear if there are more entry in the data entry section.
 
-3. For piazza post @180, when selecting dataset, the visualization stays the same as the graph before selection.
+3. When selecting dataset, the visualization stays the same as the graph before selection.
 
 4. Bonus parts added.
 
